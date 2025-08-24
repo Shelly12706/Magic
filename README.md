@@ -114,7 +114,8 @@ ReportPanel
              +--> CourseDaoImpl / EnrollmentDaoImpl
                      |
                      +--> MySQL 資料庫
-![登入選擇身分圖](images/login.png)
+![學生登入選擇畫面](images/login_student.PNG)
+![老師登入選擇畫面](images/login_teacher.PNG)
 ![課程管理介面示意](images/demo.png)
 
 
