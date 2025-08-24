@@ -114,10 +114,31 @@ ReportPanel
              +--> CourseDaoImpl / EnrollmentDaoImpl
                      |
                      +--> MySQL 資料庫
-![學生登入選擇畫面](pic/學生登入.png)
-![老師登入選擇畫面](pic/老師登入.png)
-![課程管理介面示意](images/demo.png)
-![咖啡](pic/coffee.jpg)
+
+# 教師端圖片
+
+![老師成績管理](pic/teacher_grade_manage.png)
+![老師成績管理_批次](pic/teacher_grade_batch.png)
+![老師成績管理_單筆](pic/teacher_grade_single.png)
+![老師登入](pic/teacher_login.png)
+![老師新增課程_衝堂](pic/teacher_add_course_conflict.png)
+![老師端統計總表](pic/teacher_report_total.png)
+![老師課程及成績管理](pic/teacher_course_grade_manage.png)
+![老師課程管理](pic/teacher_course_manage.png)
+![老師課程管理_刪除](pic/teacher_course_delete.png)
+![老師課程管理_修改](pic/teacher_course_edit.png)
+![老師課程管理_新增](pic/teacher_course_add.png)
+![註冊](pic/register.png)
+
+# 學生端圖片
+
+![學生成績趨勢](pic/student_grade_trend.png)
+![學生登入](pic/student_login.png)
+![學生選修成績](pic/student_select_grade.png)
+![學生選課_不能低於](pic/student_course_invalid.png)
+![學生選課_衝堂機制](pic/student_course_conflict.png)
+![學生選課完成](pic/student_course_done.png)
+
 
 
 
